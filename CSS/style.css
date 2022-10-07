@@ -122,3 +122,50 @@ body {
   cursor: pointer;
   font-size: 18px;
 }
+
+.contenedor {
+  display: flex;
+  justify-content: space-around;
+  width: auto;
+  height: auto;
+}
+
+.contenedor2 {
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor3 {
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor4 {
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor5 {
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor6 {
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor7 {
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor8 {
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor9 {
+  display: flex;
+  justify-content: center;
+}
